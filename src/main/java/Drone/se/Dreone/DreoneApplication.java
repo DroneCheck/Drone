@@ -8,6 +8,7 @@ public class DreoneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DreoneApplication.class, args);
+		System.out.println("Hello to Drone project");
 	}
 
 }
