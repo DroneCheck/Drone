@@ -1,4 +1,4 @@
-package Drone.se.Dreone;
+package Drone.se.Drone;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

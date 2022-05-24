@@ -1,13 +1,13 @@
-package Drone.se.Dreone;
+package Drone.se.Drone;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DreoneApplication {
+public class DroneApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DreoneApplication.class, args);
+		SpringApplication.run(DroneApplication.class, args);
 	}
-
+		// add comment
 }
